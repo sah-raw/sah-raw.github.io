@@ -2,7 +2,7 @@ title: Sah_Raw here, first website since 2020 ;)
 description: > # this means to ignore newlines until "baseurl:"
   Find out just who Sah_Raw is, exactly
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/sah-raw" # the subpath of your site, e.g. /blog
 url: "sah-raw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 

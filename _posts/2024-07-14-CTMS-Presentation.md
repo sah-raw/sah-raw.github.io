@@ -7,10 +7,10 @@ img: MycologyPresentation.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [conservation burial, mycology,campo de estrellas]
 ---
-My presentation [https://www.youtube.com/live/mrhRcmMe9W0?si=D_zjtMOeGB5-00iK] to the Central Texas Mycological Society 𓍊𓋼𓍊𓋼𓍊 on natural burial and my conservation cemetery project, Campo de Estrellas, is now available online! Both natural burial and mycology are trending topics with ancient roots, aligned in their aim to reduce resource use and minimize harmful materials in the soil. They both also recognize the benefits of the full lifecycle of nature (I’m talking about decomposition ☆(❁‿❁)☆ ) With all the anxious headlines about AI, it was refreshing to think about naturally occurring networks of intelligence that we can learn from.
+My [presentation to the Central Texas Mycological Society 𓍊𓋼𓍊𓋼𓍊] (https://www.youtube.com/live/mrhRcmMe9W0?si=D_zjtMOeGB5-00iK) on natural burial and my conservation cemetery project, Campo de Estrellas, is now available online! Both natural burial and mycology are trending topics with ancient roots, aligned in their aim to reduce resource use and minimize harmful materials in the soil. They both also recognize the benefits of the full lifecycle of nature (I’m talking about decomposition ☆(❁‿❁)☆ ) With all the anxious headlines about AI, it was refreshing to think about naturally occurring networks of intelligence that we can learn from.
 
 ## Campo de Estrellas
-Campo de Estrellas [https://campodeestrellas.co] is a conservation cemetery near Smithville, TX. I cofounded this natural burial cemetery with a family who wanted to conserve their land and create a place for people to reflect on their lives. 
+[Campo de Estrellas] (https://campodeestrellas.co) is a conservation cemetery near Smithville, TX. I cofounded this natural burial cemetery with a family who wanted to conserve their land and create a place for people to reflect on their lives. 
 
 ![Campo de Estrellas]({{site.baseurl}}/assets/img/Wild_Flowers.jpg)
 

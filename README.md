@@ -1,30 +1,13 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# Welcome
+Welcome to my first GitHub Pages site. 
+I've been using GitHub to accomplish work-related tasks for a few years and decided to try it for personal projects.
+I have always liked the workflow on Github so it feels like a natural fit for building more of these sites.
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+## Theme 
 
-## Demo
+I forked the [Flexible Jekyll](https://github.com/artemsheludko/flexible-jekyll) theme from @artemsheludko 
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
-
-The main page would look like this:
-
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
-
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
-
-## Installation:
-
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+## Thank you for stopping by!
 
 ## License
 

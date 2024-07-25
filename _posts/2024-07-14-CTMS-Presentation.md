@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conservation Burial Presentation to Central Texas Mycology Society
-date: 2024-07-14 13:32:20 +0300
+date: 2024-06-18 13:32:20 +0300
 description: my presentation to Central Texas Mycology Society. # Add post description (optional)
 img: CTMSPresentation.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)

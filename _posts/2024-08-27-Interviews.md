@@ -31,5 +31,5 @@ It was an honor to be included in their lineup, even though I couldn't answer 'y
 ![Death in the Afternoon]({{site.baseurl}}/assets/img/OGD_PodcastArtwork_Final.jpg)
 
 Death in the Afternoon is a podcast hosted by the funeral director, author and Ask a Mortician Youtube creator, Caitlin Doughty. In this episode, we explore the challenges of opening a green burial cemetery. I share my experience opening Campo de Estrellas. 
-Speaking with Caitlin is always a pleasure. We've collaborated in the past, when I contributed a series of essay exploring the similar topic of [what it takes to open your own funeral home.](https://www.orderofthegooddeath.com/article/american-funeral-home-revolution-5-how-the-other-half-dies/)
+Speaking with Caitlin is always a pleasure. We've collaborated in the past, when I contributed a series of essays exploring the similar topic of [what it takes to open your own funeral home.](https://www.orderofthegooddeath.com/article/american-funeral-home-revolution-5-how-the-other-half-dies/)
 

@@ -12,13 +12,15 @@ My [presentation to the Central Texas Mycological Society 𓍊𓋼𓍊𓋼𓍊](
 ## Campo de Estrellas
 [Campo de Estrellas](https://campodeestrellas.co) is a conservation cemetery near Smithville, TX. I cofounded this natural burial cemetery with a family who wanted to conserve their land and create a place for people to reflect on their lives. 
 
-![Campo de Estrellas]({{site.baseurl}}/assets/img/Wild_Flowers.jpg)
-
-Campo de Estrellas offers
+Campo de Estrellas offers:
 * Single burial plots
 * Double burial plots
 * Cremation burial plots
 * Pet burial plots
+
+![Campo de Estrellas]({{site.baseurl}}/assets/img/Wild_Flowers.jpg)
+
+
 
 
 

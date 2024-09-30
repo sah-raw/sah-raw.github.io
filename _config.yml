@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Sarah Wambold # add your name
 author-img: Swambold.jpg # add your photo
-about-author: I am a technical writer, editor, and funeral director. I specialize in making hard things easier to understand. [View my technical writing portfolio.](https://www.notion.so/sarahwambold/Sarah-Wambold-64d47983675749acaac1447ab2f09443?pvs=4) # add description
+about-author: "I am a technical writer, editor, and funeral director. I specialize in making hard things easier to understand. [View my technical writing portfolio.](https://www.notion.so/sarahwambold/Sarah-Wambold-64d47983675749acaac1447ab2f09443?pvs=4)" # add description
 social-github: "https://github.com/sah-raw" # add your Github handle
 social-linkedin: "https://www.linkedin.com/in/sarahwambold/" # add your Linkedin handle
 social-email: "mailto:sarahwambold@gmail.com" # add your Email address
